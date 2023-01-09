@@ -1,3 +1,3 @@
-## Intereactive-ChatBot.For Effective Customer Support . 
+## Intereactive-ChatBot For Effective Customer Support . 
 ## PreRequisite 
-this project contains python programming language , apart from this keras, NLTK 
+this project contains python programming language, as well as  keras and  NLTK 
